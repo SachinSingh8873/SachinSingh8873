@@ -1,23 +1,86 @@
-# 💫 Welcome to my profile, I am Sachin Singh✌️:
-🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on any Project or job<br>🤝 I’m looking for help with finding Job or Internship<br>🌱 I’m currently learning Machine Learning and MERN Stack<br>💬 Ask me about Anything 😎
+<h1 align="center"> Hii, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Sachin Singh</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SachinSingh8873&label=Views&color=blue&style=plastic&style=for-the-badge" alt="SachinSingh8873" /> </p>
 
-## 🌐 Socials Media Links:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Halkat.banda.420) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachinsingh1_4_3_2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinkr887368) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anonymouscoder108) 
+# 💫 About Me
 
-# 💻 Technical Skills:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SachinSingh8873&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SachinSingh8873&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSingh8873&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 😄 Pronouns: He/His
+- 🔭 I'm currently working on a Fullstack Web Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about Java, Web Development or any tech-related stuff.
+- 📫 How to reach me: Check the social links below.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 🌐 Socials
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SachinSingh8873&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkr887368/)
+[![Skype](https://img.shields.io/badge/Skype-009EDC?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com)
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sachinsingh1_4_3_2?igsh=MXAzMXBtbXNxam80Mw==)
+[![Email](https://img.shields.io/badge/email-477CE3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinkr887368@gmail.com@gmail.com)
+
+## 💻 Tech Stack
+
+<p float="left">
+<img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+<img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /></p>
+
+## 📈 Activity Graph
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinSingh8873&bg_color=000000&color=fafe10&line=26fde4&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+## 💳 Github Profile Summary Card
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SachinSingh8873&theme=dark"/>
+</p>
+
+## 📟 GitHub Stats
+
+<p align="center">
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinSingh8873&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SachinSingh8873&theme=dark&utcOffset=8" />
+</p>
+
+<p align="center">
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinSingh8873&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SachinSingh8873&theme=dark" />
+</p>
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SachinSingh8873&show_icons=true&theme=dark" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinSingh8873&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSingh8873&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight">
+<p align="center">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SachinSingh8873&icon=7&color=5)](https://visitcount.itsvg.in)
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/sachinkr887368/) and introduce yourself (don't just say hi, tell me about yourself")</b> 😊 💜</em>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+### Show some ❤️ by starring some of the repositories
+
+</div>
